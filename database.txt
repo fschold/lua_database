@@ -1,0 +1,7 @@
+-- file data.txt
+return {
+    page1 = "this is first page",
+    page2 = "this is second",
+    page3 = "and so on....",
+    page4 = {"maybe you have...", "multiple lines"},
+}
